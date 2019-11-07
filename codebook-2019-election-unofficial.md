@@ -2,7 +2,7 @@
 
 The data files `2019-ky-gov-county`, `2019-ms-gov-county`, and `2019-va-legislature-returns` contain unofficial 2019 off-year election returns. The `2019-ky-gov-county` and `2019-ms-gov-county` files are county-level returns for Kentucky and Mississippi, respectively. The source for this data is the New York Times (link for KY is [here](https://www.nytimes.com/interactive/2019/11/05/us/elections/results-kentucky-governor-general-election.html) and link for MS is [here](https://www.nytimes.com/interactive/2019/11/05/us/elections/results-mississippi-governor-general-election.html)). The `2019-va-legislature-returns` file contain constituency-level returns (by State House and Senate District) for Virginia. The source for this data is the [Virginia Department of Elections webpage](https://www.elections.virginia.gov/resultsreports/).
 
-Note that this data reflects earlier vote totals, which are in the process of being updated.
+Note that this data reflects vote totals as of version date/time, and will be updated weekly up until December 18th to reflect most up-to-date data.
 
 ## Variables
 The variables are listed as they appear in the data file. Not all variables appear in each data file.
