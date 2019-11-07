@@ -5,7 +5,7 @@ The data files `2019-ky-gov-county`, `2019-ms-gov-county`, and `2019-va-legislat
 Note that this data reflects vote totals as of version date/time, and will be updated weekly up until December 18th to reflect most up-to-date data.
 
 ## Variables
-The variables are listed as they appear in the data file. Not all variables appear in each data file.
+Note that this data reflects vote totals as of version date/time, and will be updated weekly up until December 18th to reflect most up-to-date data. Official results will be posted when they are made available.
 
 ### year
 - **Description**: election year	
